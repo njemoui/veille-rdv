@@ -1,0 +1,5 @@
+selenium==3.141.0
+playsound==1.2.2
+vext==0.7.6
+cPython==0.0.6
+vext.gi==0.7.4
